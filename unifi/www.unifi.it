@@ -1,0 +1,345 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="it">
+<head>
+<title>UniFI - Ateneo - Scuole</title>
+<meta name="description" content="UniFI - Universit&agrave; degli Studi di Firenze">
+<meta name="keywords" content="universit&agrave;,laurea,studio,study,studiare,Firenze,university,florence,studente,student">
+<link rel="image_src" href="http://www.unifi.it/salomoneFB.png">
+<meta name="last-mod-date" content="2014-02-25 10:10:00">
+<link rel="alternate" href="http://www.unifi.it/backend.php" type="application/rss+xml" title="Universit&agrave; degli Studi di Firenze">
+<link rel="shortcut icon" href="http://www.unifi.it/favicon.ico">
+<link rel="stylesheet" media="screen" type="text/css" href="http://www.siaf.unifi.it/azimuth/css/global.pagina.min.css">
+<link media="print" rel="stylesheet" type="text/css" href="http://www.siaf.unifi.it/azimuth/css/stampa.min.css">
+<style media="print" type="text/css">h2.normalHeader{margin:0}#cmpro-subjectimage{display:none}#cmpro-pagefocus{width:97%;margin:2px;margin-top:15px;border:1px #000 solid;padding:3px;background-color:#fff;text-align:left;color:#000}#cmpro-pagetopicons{display:none}#cmpro-topnavigator{display:none}#cmpro-bottomnavigator{display:none}#cmpro-subject-container{position:relative;min-height:455px}#cmpro-container{position:relative;text-align:left}#cmpro-pagecontent{color:#000;background-color:#fff}#cmpro-subjectcontent{height:335px;padding-bottom:30px}#cmpro-urls{display:none}#cmpro-sitemap{margin-left:auto}.blocco-notizia{margin-bottom:10px}.inevidenza-titolo{font-weight:bold}</style>
+</head>
+<body>
+<div id="centratore">
+   <div id="contenitore">
+    <div id="immaginetestastampa"><img src="themes/Azimuth/images/testastampa.png" alt="Universit&agrave; degli Studi - Firenze" width="191" height="100"></div>
+    <div id="header"><a href="index.php"><img src="http://www.siaf.unifi.it/azimuth/images/header-pagina.png" alt="Logo UniFi" width="980" height="130"></a></div>
+    <div id="cambiolingua"><!-- ?php echo _MENU_LANGUAGE; ? --></div>
+    <div id="finistraricerca">
+<form style="" method="get" action="http://marsilius.unifi.it/search">
+<div>
+<input type="hidden" value="common_frontend" name="proxystylesheet"><input type="hidden" value="small_front_aten" name="client"><input type="hidden" value="www.unifi.it" name="sitesearch"><input id="style_include_color" type="hidden" value="dipartimenti" name="style_include_color"><input id="collection_title" type="hidden" value="dell'Universit&agrave; degli Studi di Firenze" name="collection_title"><input id="back_link_text" type="hidden" value="home ateneo" name="back_link_text"><input id="back_link_url" type="hidden" value="http://www.unifi.it/" name="back_link_url"><input type="hidden" value="xml_no_dtd" name="output"><input type="hidden" value="date:D:L:d1" name="sort"><input type="hidden" value="3" name="entqr"><input type="hidden" value="1" name="ud"><input type="hidden" value="15" name="num"><input type="hidden" value="ISO-8859-1" name="ie"><input type="hidden" value="ISO-8859-1" name="oe"><input type="hidden" value="0" name="filter"><input type="hidden" value="a__WebPages_biasing" name="entsp"><label for="q" class="hidden" style="font-size: 11px; font-weight: bold; color: #fff;">Cerca</label>
+<input id="q" type="text" class="text" style="" name="q" size="35" maxlength="100" value="cerca informazioni o persone" onfocus="this.value='';"><input id="gs" type="image" alt="Cerca" src="http://www.siaf.unifi.it/azimuth/images/cerca.gif" style="vertical-align: middle; border-width: 0px;" name="btnG">
+</div>
+</form>
+</div>
+    <div id="userlinks"><!-- [user-links] --></div>
+    <div id="sol"><a href="vp-10028-servizi-online.html">Servizi online&nbsp;<img src="http://www.siaf.unifi.it/azimuth/images/frecciasol.png" alt="Servizi online" width="15" height="15"></a></div>
+    <div id="argomenti"><ul>
+<li class="arguments argomentiblu"><a class="arg" href="vp-9240-dipartimenti.html">dipartimenti</a></li>
+        <li class="arguments argomentiblu "><a class="arg" href="vp-9333-scuole.html">scuole</a></li>
+        <li class="arguments argomenticiano"><a class="arg" href="vp-3259-ufficio-relazioni-con-il-pubblico-urp.html">urp</a></li>
+        <li class="arguments argomenticiano argomentiduelinee"><a class="arg" href="vp-9661-amministrazione-trasparente.html">amministrazione trasparente</a></li>
+        <li class="arguments argomentigrigio"><a class="arg" href="vp-2320-bandi-di-gara-e-procedure-immobiliari.html">bandi di gara</a></li>
+        <li class="arguments argomentigrigio" style="height: 23px;"><a class="arg" href="vp-9008-albo-ufficiale.html">albo ufficiale</a></li>
+      </ul></div>
+    <table id="contenuto" cellpadding="0" cellspacing="0">
+<tr>
+<td id="cellasinistra">
+       <div id="titoloargomento"><a href="ls-31-ateneo.html">Ateneo</a></div>
+       <div id="colonnamenu" style="width:160px;">
+ <div class="menuitem">
+<ul>
+<li id="Z5123" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-5123-storia-e-profilo.html">Storia e profilo</a></li>
+<li id="Z2329" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2329-organi.html">Organi</a></li>
+<li id="Z2317" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2317-strutture.html">Strutture</a></li>
+<li id="Z2344" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2344-statuto-e-normativa.html">Statuto e normativa</a></li>
+<li id="Z2318" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2318-amministrazione.html">Amministrazione</a></li>
+<li id="Z2320" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2320-bandi-di-gara-e-procedure-immobiliari.html">Bandi di gara e procedure immobiliari</a></li>
+<li id="Z2321" class="cmpro-block-pageplain" style="position: relative;"><a href="vp-2321-bilanci.html">Bilanci</a></li>
+<li id="Z2922" class="cmpro-block-pageplain" style="position: relative;">
+<a href="vp-2922-assicurazione-della-qualita.html">Assicurazione della Qualit&agrave;</a>
+</li>
+</ul>
+</div>
+</div> 
+      </td>
+      <td id="areacentralegenerica">
+       <table id="argomentisup"><tr>
+<td class="menuargomenti"><a href="ls-38-didattica.html">Didattica</a></td>
+         <td class="menuargomenti"><a href="ls-33-ricerca.html">Ricerca</a></td>
+         <td class="menuargomenti"><a href="ls-39-innovazione-e-lavoro.html">Innovazione e lavoro</a></td>
+         <td class="menuargomenti"><a href="ls-32-relazioni-internazionali.html">Relazioni internazionali</a></td>
+         <td class="menuargomenti-biblio"><a href="http://www.sba.unifi.it/">Biblioteche</a></td>
+        </tr></table>
+<div id="pageid" style="display: none">9333</div>
+
+<div id="cmpro-page-container">
+
+<table id="cmpro-topaccessories-table" style="width: 100%; border-bottom: 1px solid #26405f;"><tr>
+<td style="vertical-align: top;">
+<div id="cmpro-topnavigator">
+<div style="text-align: left;">
+<a href="index.php" title="Home page">Home page</a>&nbsp;&gt;&nbsp;<a href="ls-31-ateneo.html">Ateneo</a>&nbsp;&gt;&nbsp;<a href="vp-2317-strutture.html">Strutture</a>&nbsp;&gt;&nbsp;Scuole</div>
+<div class="lastpath" style="display: none">2317</div>
+
+</div>
+
+</td>
+<td style="vertical-align: top; text-align: right; width: 46px;">
+<a class="cmpropage-sprite icon-print" href="javascript:window.print();" title="Stampa la pagina corrente">Stampa la pagina corrente</a>
+<a class="cmpropage-sprite icon-map" href="sitemap.html?pageid=9333#here" title="Mostra la posizione di questa pagina nella mappa">Mostra la posizione di questa pagina nella mappa</a>
+</td>
+</tr></table>
+<h1 class="cmpro-titleh1">Scuole</h1>
+
+
+
+<div id="cmpro-pagecontent" class="pn-normal">
+<p>Secondo lo <a href="vp-8500-d-r-329-2012-prot-n-25730-statuto-dell-universita-degli-studi-di-firenze.html">Statuto</a> dell'Ateneo le <strong>Scuole</strong><strong> </strong>coordinano le attivit&agrave; didattiche esercitate nei corsi di laurea, nei corsi di laurea magistrale, nelle scuole di specializzazione, e ne gestiscono i relativi servizi. Ogni Scuola &egrave; costituita da due o pi&ugrave; Dipartimenti. Funzionamento e compiti sono disciplinati dal <a href="vp-9046-d-r-952-2012-prot-n-112263-regolamento-di-ateneo-delle-scuole.html">Regolamento</a> delle Scuole. &nbsp;</p>
+<!--
+<p>Le Scuole dell'Universit&agrave; di Firenze sono:</p>
+<ul>
+<li><a href="/#sc_agraria" _mce_href="/#sc_agraria">Scuola di Agraria</a></li>
+<li><a href="/#sc_architettura" _mce_href="/#sc_architettura">Scuola di Architettura</a></li>
+<li><a href="/#sc_economia" _mce_href="/#sc_economia">Scuola di Economia e Management</a></li>
+<li><a href="/#sc_giurisprudenza" _mce_href="/#sc_giurisprudenza">Scuola di Giurisprudenza </a></li>
+<li><a href="/#sc_ingegneria" _mce_href="/#sc_ingegneria">Scuola di Ingegneria</a></li>
+<li><a href="/#sc_psicologia" _mce_href="/#sc_psicologia">Scuola di Psicologia </a></li>
+<li><a href="/#sc_sc_salute" _mce_href="/#sc_sc_salute">Scuola di Scienze della Salute Umana</a></li>
+<li><a href="/#sc_smfn" _mce_href="/#sc_smfn">Scuola di Scienze Matematiche Fisiche e Naturali</a></li>
+<li><a href="/#sc_studi_umanistici" _mce_href="/#sc_studi_umanistici">Scuola di Studi Umanistici e della Formazione</a></li>
+<li><a href="/#sc_sc_politiche" _mce_href="/#sc_sc_politiche">Scuola di Scienze Politiche "Cesare Alfieri" </a></li>
+</ul>
+--><br><ul>
+<li>
+<strong><a name="agraria" title="agraria"></a><a href="http://www.agraria.unifi.it">Scuola di Agraria</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-3014.html">Giuseppe Surico</a><br>Alla Scuola partecipano i Dipartimenti di:                             
+<ul type="square">
+<li>Chimica</li>
+<li>Scienze delle Produzioni Agroalimentari e dell'Ambiente - DISPAA</li>
+<li>Gestione dei Sistemi Agrari, Alimentari e Forestali - GESAAF </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<a href="http://www.architettura.unifi.it"><strong></strong></a><a href="http://www.architettura.unifi.it"><strong></strong></a><strong><a name="architettura" title="architettura"></a><a href="http://www.architettura.unifi.it">Scuola di Architettura</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-2021.html">Vincenzo Legnante </a><br>Alla Scuola partecipano i Dipartimenti di:                             
+<ul type="square">
+<li>Architettura</li>
+<li>Ingegneria Civile e Ambientale - DiCEA</li>
+<li>Ingegneria Industriale</li>
+<li>Gestione dei Sistemi Agrari, Alimentari e Forestali - GESAAF </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="economia" title="economia"></a><a href="http://www.economia.unifi.it/">Scuola di Economia e Management</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-3713.html">Vincenzo Zampi</a><br>Alla Scuola partecipano i Dipartimenti di: <br><ul type="square">
+<li>Scienze Giuridiche </li>
+<li>Scienze per l'Economia e per l'Impresa</li>
+<li>Scienze Politiche</li>
+<li>Statistica, Informatica, Applicazioni</li>
+</ul>
+</li>
+</ul>
+<ul type="square">
+<li>
+<strong><a name="giurisprudenza" title="giurisprudenza"></a><a href="http://www.giurisprudenza.unifi.it">Scuola di Giurisprudenza</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-2617.html">Paolo Cappellini </a><br>Alla Scuola partecipano i Dipartimenti di:                               
+<ul type="square">
+<li>Scienze Giuridiche </li>
+<li>Scienze per l'Economia e per l'Impresa </li>
+</ul>
+</li>
+</ul>
+<ul type="square">
+<li>
+<strong><a name="ingegneria" title="ingegneria"></a><a href="http://www.ingegneria.unifi.it/">Scuola di Ingegneria</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-3148.html">Renzo Capitani</a><br>Alla Scuola partecipano i Dipartimenti di:                                 
+<ul type="square">
+<li>Architettura</li>
+<li>Ingegneria Civile e Ambientale - DiCEA</li>
+<li>Ingegneria dell&rsquo;Informazione</li>
+<li>Ingegneria Industriale</li>
+<li>Matematica e Informatica &ldquo;U.Dini&rdquo; </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="psicologia" title="psicologia"></a><a href="http://www.psicologia.unifi.it">Scuola di Psicologia </a></strong><br> Presidente: Prof.ssa <a href="http://www.unifi.it/cercachi-per-4013.html">Nicoletta Berardi </a><br>Alla Scuola partecipano i Dipartimenti di:                               
+<ul type="square">
+<li>Neuroscienze, Psicologia, Area del Farmaco e Salute del Bambino - NEUROFARBA</li>
+<li>Scienze della Salute</li>
+<li>Scienze della Formazione e Psicologia</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="sc_salute_umana" title="sc_salute_umana"></a><a href="http://www.sc-saluteumana.unifi.it/">Scuola di Scienze della Salute Umana</a></strong><br> Presidente: Prof. <a href="http://www.unifi.it/cercachi-per-1034.html">Gianni Forti </a><br>Alla Scuola partecipano i Dipartimenti di: <br><ul type="square">
+<li>Chimica</li>
+<li>Chirurgia e Medicina Traslazionale</li>
+<li>Medicina Sperimentale e Clinica</li>
+<li>Neuroscienze, Psicologia, Area del Farmaco e Salute del Bambino - NEUROFARBA</li>
+<li>Scienze Biomediche,&nbsp; Sperimentalie Cliniche "Mario Serio"</li>
+<li>Scienze della Salute</li>
+<li>Statistica, Informatica, Applicazioni </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="smfn" title="smfn"></a><a href="http://www.scienze.unifi.it/">Scuola di Scienze Matematiche, Fisiche e Naturali</a></strong><br> Presidente: Prof.ssa <a href="http://www.unifi.it/cercachi-per-2135.html">Paola Bruni </a><br>Alla Scuola partecipano i Dipartimenti di:                    
+<ul type="square">
+<li>Biologia</li>
+<li>Chimica</li>
+<li>Fisica e Astronomia </li>
+<li>Matematica e Informatica </li>
+<li>Scienze della Terra </li>
+<li>Statistica, Informatica, Applicazioni </li>
+<li>Scienze Biomediche,&nbsp;Sperimentali e Cliniche "Mario Serio"</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="sc_politiche" title="sc_politiche"></a><a href="http://www.sc-politiche.unifi.it/">Scuola di Scienze Politiche "Cesare Alfieri"</a></strong><br> Presidente: Prof.ssa <a href="http://www.unifi.it/cercachi-per-4059.html">Cecilia Corsi </a><br>Alla Scuola partecipano i Dipartimenti di:                             
+<ul type="square">
+<li>Scienze per l'Economia e per l'Impresa </li>
+<li>Scienze Giuridiche </li>
+<li>Scienze Politiche e Sociali</li>
+<li>Storia, Archeologia, Geografia, Arte e Spettacolo - SAGAS </li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<strong><a name="studi_umanistici" title="studi_umanistici"></a><a href="http://www.st-umaform.unifi.it/">Scuola di Studi Umanistici e della Formazione</a></strong><br> Presidente: Prof.ssa <a href="http://www.unifi.it/cercachi-per-2580.html">Maria Pia Marchese</a><br>Alla Scuola partecipano i Dipartimenti di:                            
+<ul type="square">
+<li>Lettere&nbsp;e Filosofia </li>
+<li>Lingue, Letterature e Studi Interculturali</li>
+<li>Scienze della Formazione e Psicologia</li>
+<li>Scienze Politiche e Sociali</li>
+<li>Storia, Archeologia, Geografia, Arte e Spettacolo - SAGAS </li>
+</ul>
+</li>
+</ul>&nbsp;</div>
+
+<div id="cmpro-pagelastupdate">ultimo aggiornamento: 25-Feb-2014</div>
+</div>
+
+ 
+      </td>
+      <td style="margin-top: 0px;">
+       <table id="celladestra">
+<tr><td class="menuargomentidx" style="background-color: #a1001a;"><a href="ls-27-studenti.html">Studenti</a></td></tr>
+<tr><td class="menuargomentidx" style="height: 77px;"><a href="news.html">News</a></td></tr>
+<tr><td class="menuargomentidx"><a href="avvisi.html">Avvisi</a></td></tr>
+</table>
+</td>
+     </tr>
+<tr>
+<td colspan="3" id="spaziofooter"> 
+       <div id="social" class="baseimg">
+<img src="http://www.siaf.unifi.it/azimuth/images/social_small.jpg" usemap="#Map" alt="social icons" width="172" height="29"><map name="Map" id="Map"><area shape="rect" coords="3,0,26,29" href="https://www.facebook.com/UNIFIOFFICIAL" alt="Facebook">
+<area shape="rect" coords="26,1,51,29" href="https://twitter.com/UNI_FIRENZE" alt="Twitter">
+<area shape="rect" coords="56,3,81,30" href="http://www.youtube.com/user/UNIFIRENZE" alt="YouTube">
+<area shape="rect" coords="82,1,110,32" href="http://www.behance.net/unifi" alt="Behance">
+<area shape="rect" coords="112,4,141,43" href="https://plus.google.com/u/0/b/115197975688616927011/115197975688616927011/posts" alt="Google+">
+<area shape="rect" coords="141,4,171,27" href="http://instagram.com/unifirenze" alt="Instagram"></map>
+</div>
+       <div id="footermenu"><table><tbody><tr>
+<td>
+<h2><a href="ls-31-ateneo.html" title="Ateneo">Ateneo</a></h2>
+<ul>
+<li><a href="cercachi.html">CercaChi</a></li>
+<li><a href="vp-5123-storia-e-profilo.html">Storia e profilo</a></li>
+<li><a href="http://www.unifi.it/cmpro-v-p-2329.html">Organi</a></li>
+<li><a href="http://www.unifi.it/cmpro-v-p-2344.html">Statuto e normativa</a></li>
+<li><a href="http://www.unifi.it/cmpro-v-p-2321.html">Bilanci</a></li>
+<li><a href="http://www.unifi.it/CMpro-v-p-9984.html">Atti di notifica</a></li>
+</ul>
+<h2><a href="http://www.unifi.it/cmpro-l-s-34.html">Personale</a></h2>
+<ul>
+<li><a href="vp-2377-reclutamento-concorsi-selezioni.html">Reclutamento, concorsi, selezioni</a></li>
+<li><a href="http://www.ateneosicuro.unifi.it">Ateneo sicuro</a></li>
+</ul>
+</td>
+<td>
+<h2><a href="ls-38-didattica.html" title="Didattica">Didattica</a></h2>
+<ul>
+<li><a href="vp-8712-corsi-di-laurea.html">Corsi di laurea</a></li>
+<li><a href="vp-8823-master.html">Master</a></li>
+<li><a href="vp-8888-corsi-di-perfezionamento.html">Corsi di perfezionamento</a></li>
+<li><a href="vp-8889-corsi-di-aggiornamento-professionale.html">Corsi di aggiornamento</a></li>
+<li><a href="vp-9875-formazione-insegnanti.html">Formazione degli insegnanti</a></li>
+<li><a href="vp-8984-scuole-di-specializzazione.html">Scuole di Specializzazione</a></li>
+<li><a href="vp-385-dottorati-di-ricerca.html">Dottorati di Ricerca</a></li>
+</ul>
+</td>
+<td>
+<h2><a href="ls-27-studenti.html" title="Studenti">Studenti</a></h2>
+<ul>
+<li><a href="vp-2695-orientamento.html">Orientamento</a></li>
+<li><a href="vp-7369-immatricolazioni-e-iscrizioni.html">Immatricolazioni, iscrizioni e tasse</a></li>
+<li><a href="vp-2312-students-from-abroad.html">Students from abroad</a></li>
+<li><a href="vp-379-studenti-con-disabilita.html">Studenti con disabilit&agrave;</a></li>
+<li><a href="vp-7464-mobilita-internazionale.html">Mobilit&agrave; internazionale - Erasmus</a></li>
+<li><a href="vp-7371-borse-e-incentivi.html">Borse e incentivi</a></li>
+<li><a href="vp-7366-mense-e-alloggi.html">Mense e alloggi</a></li>
+</ul>
+</td>
+<td>
+<h2><a href="ls-33-ricerca.html">Ricerca</a></h2>
+<ul>
+<li><a href="vp-2697-u-gov-ricerca.html">U-GOV ricerca</a></li>
+<li><a href="vp-7702-valutazione-della-qualita-della-ricerca.html">Valutazione della qualit&agrave; della ricerca</a></li>
+<li><a href="vp-2369-finanziamenti.html">Finanziamenti</a></li>
+<li><a href="vp-391-assegni-di-ricerca.html">Assegni di ricerca</a></li>
+</ul>
+<h2><a href="ls-32-relazioni-internazionali.html">Relazioni internazionali</a></h2>
+<ul>
+<li><a href="vp-7684-the-university-of-florence-at-a-glance.html">The University of Florence at a glance</a></li>
+</ul>
+</td>
+<td>
+<h2><a href="ls-39-innovazione-e-lavoro.html">Innovazione e lavoro</a></h2>
+<ul>
+<li><a href="vp-7470-orientamento-al-lavoro-e-job-placement.html">Job Placement</a></li>
+<li><a href="vp-5977-incubatore-universitario-iuf.html">Incubatore universitario (IUF) e&nbsp; Spin-off</a></li>
+<li><a href="vp-5971-brevetti-e-diritti-d-autore.html">Brevetti e Diritti d'Autore</a></li>
+<li><a href="vp-5976-ricerca-conto-terzi.html">Ricerca conto terzi</a></li>
+<li><a href="vp-5975-laboratori-di-ricerca-fra-universita-e-soggetti-esterni.html">Laboratori di ricerca congiunti</a></li>
+<li><a href="vp-9946-apprendistato-di-alta-formazione.html">Apprendistato di Alta Formazione</a></li>
+</ul>
+</td>
+<td>
+<h2><a href="ls-36-comunicazione.html">Comunicazione</a></h2>
+<ul>
+<li><a href="http://www.unifi.it/notiziario/mdswitch.html">Notiziario</a></li>
+<li><a href="http://www.unifi.it/webtv/mdswitch.html">Video</a></li>
+<li><a href="vp-2378-newsletter-unifi.html">Newsletter</a></li>
+<li><a href="vp-9844-social-network.html">Social Network</a></li>
+<li><a href="vp-9264-immagine-coordinata.html">Immagine coordinata&nbsp;</a></li>
+<li><a href="http://www.fupress.com/">Firenze University Press</a></li>
+<li><a href="vp-3431-rassegna-stampa.html">Rassegna stampa</a></li>
+</ul>
+</td>
+</tr></tbody></table></div>
+       <div id="footer" class="testopiccolo">
+<div id="footerlinksspec1">
+<a href="vp-10048-accessibilita.html">Accessibilit&agrave;</a>
+ | <a href="http://www.unifi.it/datimonitoraggio">Monitoraggio</a>
+</div>
+<div id="footercopyright">&copy; Copyright 2014 Universit&agrave; degli Studi di Firenze
+ - progetto e idea grafica: <a href="cercachi-str-032000.html">Area Comunicazione</a>
+ - piattaforma tecnologica: <a href="http://www.siaf.unifi.it/">SIAF</a>
+ - cms: <a href="http://www.maxdev.it">MaxDev</a>
+ </div> <div id="footerlinksspec2">
+<a href="cercachi-str-030020.html">Redazione web</a> | 
+<a href="mod-cmpro-showmap.html">Mappa del sito</a> | 
+<a href="http://www.unifi.it/cmpro-v-p-9820.html">Note legali</a> | 
+<a href="http://www.unifi.it/index.php?module=ofform2&amp;mode=3">Area riservata personale</a> |
+<a href="admin.php">Login redazione</a>
+</div>
+</div>
+      </td>
+     </tr>
+</table>
+</div>
+  </div>
+<script type="text/javascript" src="http://www.siaf.unifi.it/azimuth/js/jquery-1.11.1.min.js"></script><script type="text/javascript">$('#fisarmonica .testasezione').on('click',function(){$(this).next('.corposezione').slideToggle(200).siblings('.corposezione').slideUp(500);});</script><script type="text/javascript">$(document).ready(function(){var lpn=0;var lp='';$('.lastpath').each(function(){lpn++;lp=$(this).text();if(lpn>0) return false;});if(lp=='') lp=$('#pageid').text();lp='#Z'+lp;$(lp).removeClass('cmpro-block-pageplain').addClass('cmpro-block-pagehilite');});	</script><script type="text/javascript">$(document).ready(function(){$('a.arg').each(function(){$(this).css('margin-top',((parseInt($(this).parent().css('height').substr(0,$(this).parent().css('height').indexOf('px'))) - parseInt($(this).css('height').substr(0,$(this).css('height').indexOf('px'))))/2).toString() + 'px');});});</script>
+</body>
+</html>
