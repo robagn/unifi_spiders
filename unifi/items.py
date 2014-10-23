@@ -10,5 +10,7 @@ import scrapy
 
 class UnifiItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = scrapy.Field()
+    url=scrapy.Field()
+    ref=scrapy.Field()
     pass
