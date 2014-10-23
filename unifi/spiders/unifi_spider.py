@@ -13,7 +13,7 @@ class UnifiSpider(scrapy.Spider):
 #  			f.write(response.body)
 		for sel in response.xpath('//ul/li'):
  			item=UnifiItem()
- 			item['name'] = sel.xpath('a/text()').extract()
+ 			item['name'] = sel.xpath('strong/text()').extract()
  			item['url'] = sel.xpath('a/@href').extract()
- 			item['ref'] = sel.xpath('text()').re('-\s[^\n]*\\r')
+ 			item['ref'] = sel.xpath('//strong/text()').re('-\s[^\n]*\\r')
  			yield item
