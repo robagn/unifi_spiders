@@ -8,13 +8,26 @@ class UnifiSpider(scrapy.Spider):
 	start_urls = ["http://www.unifi.it/vp-9333-scuole.html"]        
 	
 	def parse(self, response):
-		filename = response.url.split("/")[-2]
+		sel = Selector(response)
+		sites = sel.xpath('//br/ul/li')
+		items = []
+		item=UnifiItem()
+#		filename = response.url.split("/")[-2]
 # 		with open(filename, 'wb') as f:
 #  			f.write(response.body)
-		for sel in response.xpath('//ul/li'):
+		for site in sites:
+			#for sel in response.xpath('//ul/li'):
  			item=UnifiItem()
- 			item['name'] = sel.xpath('/@name').extract()
+ 			item['name'] = sel.xpath('a/href').extract()
  			item['url'] = sel.xpath('a/@href').extract()
- 			item['ref'] = sel.xpath('br/a/text()').re('-\s[^\n]*\\r')
- 			yield item
+ 			item['ref'] = sel.xpath('br/a/@href.text()').re('-\s[^\n]*\\r')
+ 			#yield item
+			items.append(item)
 			print 'k'
+		return items	
+			
+
+
+
+
+
