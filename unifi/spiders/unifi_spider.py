@@ -1,6 +1,7 @@
 import scrapy
 #from __future__ import absolute_import 
 from unifi.items import UnifiItem
+from scrapy.selector import Selector
 
 class UnifiSpider(scrapy.Spider):
 	name="unifi_it"
@@ -9,21 +10,21 @@ class UnifiSpider(scrapy.Spider):
 	
 	def parse(self, response):
 		sel = Selector(response)
-		sites = sel.xpath('//br/ul/li')
+		sites = sel.xpath('//ul/li')
 		items = []
-		item=UnifiItem()
+#		item=UnifiItem()
 #		filename = response.url.split("/")[-2]
 # 		with open(filename, 'wb') as f:
 #  			f.write(response.body)
 		for site in sites:
 			#for sel in response.xpath('//ul/li'):
  			item=UnifiItem()
- 			item['name'] = sel.xpath('a/href').extract()
- 			item['url'] = sel.xpath('a/@href').extract()
- 			item['ref'] = sel.xpath('br/a/@href.text()').re('-\s[^\n]*\\r')
+ 			item['name'] = site.xpath('strong/a/text()').extract()
+ 			item['url'] = site.xpath('a/@href').extract()
+ 			item['ref'] = site.xpath('br/a/@href/text()').extract()#.re('-\s[^\n]*\\r')
  			#yield item
 			items.append(item)
-			print 'k'
+			print 'kkkk'
 		return items	
 			
 
