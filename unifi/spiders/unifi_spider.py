@@ -21,10 +21,10 @@ class UnifiSpider(scrapy.Spider):
  			item=UnifiItem()
  			item['name'] = site.xpath('strong/a/text()').extract()
  			item['url'] = site.xpath('a/@href').extract()
- 			item['ref'] = site.xpath('br/a/@href/text()').extract()#.re('-\s[^\n]*\\r')
+ 			item['ref'] = site.xpath('a[contains(@href,"cercachi")]/text()').extract()#.re('-\s[^\n]*\\r')
  			#yield item
 			items.append(item)
-			print 'kkkk'
+			print 'pppp'
 		return items	
 			
 
