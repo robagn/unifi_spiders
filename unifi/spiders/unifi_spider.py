@@ -20,10 +20,10 @@ class UnifiSpider(scrapy.Spider):
 			#for sel in response.xpath('//ul/li'):
  			item=UnifiItem()
  			item['name'] = site.xpath('strong/a/text()').extract()
- 			item['url'] = site.xpath('a/@href').extract()
+ 			item['url'] = site.xpath('strong/a/@href').extract()
  			item['ref'] = site.xpath('a[contains(@href,"cercachi")]/text()').extract()#.re('-\s[^\n]*\\r')
- 			#yield item
-			items.append(item)
+ 			if len(item['name'])>0:
+				items.append(item)
 			print 'pppp'
 		return items	
 			
